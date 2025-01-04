@@ -1,5 +1,5 @@
 👨‍💻 Warun Kumar
-Aspiring Tech Innovator | AI Enthusiast | Cybersecurity Explorer
+ Cybersecurity Enthusiast
 
 Hi! I'm Warun, a passionate developer diving deep into AI-powered solutions, cybersecurity forensics, and automation tools. I enjoy solving complex problems and building efficient systems using cutting-edge technologies.
 

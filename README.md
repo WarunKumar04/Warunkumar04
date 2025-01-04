@@ -8,5 +8,5 @@ Hi! I'm Warun, a passionate developer diving deep into AI-powered solutions, cyb
 - 🎓 Education: Computer Science Student (FAST-NUCES)
 
 Let’s collaborate and build something amazing together! 🚀
-📫 Contact: warunkumar@example.com
-🔗 LinkedIn: linkedin.com/in/warunkumar
+-📫 Contact: warunkumar@example.com
+- 🔗 LinkedIn: [linkedin.com/in/warunkumar](http://linkedin.com/in/warun-dawani-0b65b3258)
